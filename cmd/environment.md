@@ -11,7 +11,7 @@ setx -m JAVA_HOME "C:\Program Files\Amazon Corretto\jdk17.0.3_6"
 ### 설명
 
 setx
-> 현재 클라이언트 뿐만 아니라 모든 환경에서 적용.
+> 현재 클라이언트 뿐만 아니라 모든 환경에서 적용. set의 경우 현재 클라이언트에서만 적용됨.
 
 -m
 > 시스템 환경변수로 적용.
